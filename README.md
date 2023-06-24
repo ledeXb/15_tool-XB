@@ -1,10 +1,6 @@
 
 #15_TOOL-xb                   
 
-[![Build Status](https://img.shields.io/github/forks/rixon-cochi/hacking-tool.svg)](https://github.com/rixon-cochi/hacking-tool)
-[![Build Status](https://img.shields.io/github/stars/rixon-cochi/hacking-tool.svg)](https://github.com/rixon-cochi/hacking-tool)
-[![License](https://img.shields.io/github/license/rixon-cochi/b.svg)](https://github.com/rixon-cochi/b)
-
 -----------------------------------------------------------------------------------------------------------------------------------
 <br>
 <p align="center">
@@ -61,9 +57,6 @@ Open the terminal and type following commands.
 
 * ~~./tools.sh~~ not work
 
-## preview
-![](https://i.pinimg.com/originals/db/4f/04/db4f045299041f244c2b5a33580ff8b8.gif)
 
 # SUPPORT 
-[![Donate](https://img.shields.io/badge/paypal-TECH--COCHI-gold?style=for-the-badge&logo=PayPal)](https://www.paypal.me/techcochi)
-[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/HYDRAGAMING4U)
+[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@LinuxXB)
