@@ -53,10 +53,6 @@ Open the terminal and type following commands.
 
 * `bash tools.sh`
 
-* ~~sh tools.sh~~ not work 
-
-* ~~./tools.sh~~ not work
-
 
 # SUPPORT 
 [![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@LinuxXB)
